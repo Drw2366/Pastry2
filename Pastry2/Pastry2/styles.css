@@ -1,0 +1,46 @@
+body {
+    color: rgb(247, 139, 8);
+    background-color: rgb(8, 138, 99);
+}
+ul {
+    font-family: Comic Sans Ms;
+}
+
+ul li{
+    display: inline;
+    padding: 10px;
+    margin: 75px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(253, 253, 252);
+}
+ 
+h1{
+    color: rgb(247, 139, 8);
+    border-color: floralwhite;
+    text-align: center;
+    padding: 10px;
+    margin: 75px;
+    border-style: solid;
+    border-width: 4px;
+    font-family: Comic Sans Ms;
+}
+
+ img{
+border-style: solid;
+border-width: 4px;
+border-color: rgb(247, 247, 248);
+padding: 5px;
+width: 400px;
+height: 400px;
+}
+
+p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    border-style: solid;
+    border-color: seashell;
+}
